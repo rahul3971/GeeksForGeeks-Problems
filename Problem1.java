@@ -1,4 +1,4 @@
-//PROBLEM LINK : https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page
+//PROBLEM LINK: https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page
 /*
 Given an array arr[] of size n, containing elements from the range 1 to n, 
 and each element appears at most twice, 
