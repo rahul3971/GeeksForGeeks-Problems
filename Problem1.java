@@ -1,7 +1,8 @@
+//PROBLEM LINK : https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page
 /*
-an array of size n,
-containing elements from the range 1 to n,occuring twice
-return the array of elements occuring twice
+Given an array arr[] of size n, containing elements from the range 1 to n, 
+and each element appears at most twice, 
+return an array of all the integers that appears twice.
 Ex:
 [2,3,1,2,3]
 -> [2,3]
