@@ -5,7 +5,7 @@ the zeros in the array to the right end while maintaining the relative order
 of the non-zero elements. The operation must be performed in place, 
 meaning you should not use extra space for another array.
 arr[] = [1,2,0,4,3,0,5,0]
---> [1,2,4,3,5,0,0,0]
+Output : [1,2,4,3,5,0,0,0]
 */
 
 import java.util.Arrays;
