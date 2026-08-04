@@ -3,7 +3,7 @@
 Given an sorted array and an integer k
 find the position of k in the array using Binary Search.
 Ex:[1,2,3,4,5] ,k = 4  
---> 3 
+Output: 3 
 */
 class Problem3{
     public static void main(String[] args) {
