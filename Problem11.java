@@ -54,5 +54,6 @@ public class Problem11 {
         }
         
         System.out.println(checkEqual(a, b));
+        sc.close();
     }
 }
