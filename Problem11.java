@@ -1,4 +1,4 @@
-//PROBLEM LINK: 
+//PROBLEM LINK: https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1
 /*
 Given two arrays a[] and b[] of equal size, the task is to find whether the elements in the arrays are equal.
 
