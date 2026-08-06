@@ -52,19 +52,7 @@ public class Problem11 {
             b[j] = sc.nextInt();
             j++;
         }
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int k : a){
-            if(map.containsKey(k)){
-                map.put(k, map.get(k)+1);
-            }else{
-                map.put(k, 1);
-            }
-        }
-        System.out.println(map.toString());
-
-        sc.close();
-        // int[] a = new int[]{1,2,5,4,0};
-        // int[] b = new int[]{2,4,5,0,1};
-        // System.out.println(checkEqual(a, b));
+        
+        System.out.println(checkEqual(a, b));
     }
 }
